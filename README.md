@@ -19,7 +19,7 @@ allprojects {
 Add the dependency : 
 ```java
 dependencies {
-	        
+	    implementation 'com.github.chetankoli1:NeoMorphByCodeWithSk:1.0'    
 	}
 ```
 Sync the gradle and that's it! :+1:
